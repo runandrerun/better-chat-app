@@ -1,0 +1,21 @@
+#profile-card {
+  text-align: center;
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.profile-img {
+  width: 100px;
+  height: auto;
+  border-radius: 50%;
+  float: left;
+}
+
+#profile-card p {
+  float: right;
+}
+
+.profile-avatar {
+    margin: 10px;
+    width: 60px;
+    height: 60px;
+}

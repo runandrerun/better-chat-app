@@ -1,0 +1,7 @@
+#posts-container {
+  padding: 15px;
+  height: 400px;
+  background-color: #eceff1;
+  border-bottom: 1px solid #16d1a5;
+  overflow: scroll;
+}
